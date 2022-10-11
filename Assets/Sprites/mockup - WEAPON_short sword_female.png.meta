@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: 8c99834019531944ea672a83d1818dcc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1800570466934380644
+    second: mockup - WEAPON_short sword_female_0
+  - first:
+      213: 3332305495169563997
+    second: mockup - WEAPON_short sword_female_1
+  - first:
+      213: 1833855561664446473
+    second: mockup - WEAPON_short sword_female_2
+  - first:
+      213: 5462251256726164228
+    second: mockup - WEAPON_short sword_female_3
+  - first:
+      213: 5242535679862568383
+    second: mockup - WEAPON_short sword_female_4
+  - first:
+      213: -5780378132895849889
+    second: mockup - WEAPON_short sword_female_5
+  - first:
+      213: 9213133551195777260
+    second: mockup - WEAPON_short sword_female_6
+  - first:
+      213: -3982525749524500063
+    second: mockup - WEAPON_short sword_female_7
+  - first:
+      213: -3911639502186011028
+    second: mockup - WEAPON_short sword_female_8
+  - first:
+      213: -176299113091726459
+    second: mockup - WEAPON_short sword_female_9
+  - first:
+      213: 2172199030021593106
+    second: mockup - WEAPON_short sword_female_10
+  - first:
+      213: -1008601465504734974
+    second: mockup - WEAPON_short sword_female_11
+  - first:
+      213: 8731777593676340976
+    second: mockup - WEAPON_short sword_female_12
+  - first:
+      213: -3588829042284991142
+    second: mockup - WEAPON_short sword_female_13
+  - first:
+      213: 6480985443518398900
+    second: mockup - WEAPON_short sword_female_14
+  - first:
+      213: -6996016002722343469
+    second: mockup - WEAPON_short sword_female_15
+  - first:
+      213: -6420816492270480900
+    second: mockup - WEAPON_short sword_female_16
+  - first:
+      213: -613487889959376344
+    second: mockup - WEAPON_short sword_female_17
+  - first:
+      213: -2151048575137852438
+    second: mockup - WEAPON_short sword_female_18
+  - first:
+      213: 8342466160198006227
+    second: mockup - WEAPON_short sword_female_19
+  - first:
+      213: -65485027974621678
+    second: mockup - WEAPON_short sword_female_20
+  - first:
+      213: 1018996453323052603
+    second: mockup - WEAPON_short sword_female_21
+  - first:
+      213: -9156841383582241470
+    second: mockup - WEAPON_short sword_female_22
+  - first:
+      213: -5667155021099549055
+    second: mockup - WEAPON_short sword_female_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mockup - WEAPON_short sword_female_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 194
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468dea2cc49ecf810800000000000000
+      internalID: 1800570466934380644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup - WEAPON_short sword_female_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 193
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5df9aa413abe3e20800000000000000
+      internalID: 3332305495169563997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup - WEAPON_short sword_female_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 193
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900426acae9237910800000000000000
+      internalID: 1833855561664446473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup - WEAPON_short sword_female_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 193
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4031817e390ddcb40800000000000000
+      internalID: 5462251256726164228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup - WEAPON_short sword_female_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 193
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5f488bc6a31c840800000000000000
+      internalID: 5242535679862568383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup - WEAPON_short sword_female_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 193
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52ae41c6b8f7cfa0800000000000000
+      internalID: -5780378132895849889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup - WEAPON_short sword_female_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8e14bc620abdf70800000000000000
+      internalID: 9213133551195777260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup - WEAPON_short sword_female_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 128
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1febe5ee93bb8c0800000000000000
+      internalID: -3982525749524500063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup - WEAPON_short sword_female_8
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 129
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6621d6f89017b9c0800000000000000
+      internalID: -3911639502186011028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup - WEAPON_short sword_female_9
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 129
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58383f504e8ad8df0800000000000000
+      internalID: -176299113091726459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup - WEAPON_short sword_female_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 130
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21892ed4283352e10800000000000000
+      internalID: 2172199030021593106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup - WEAPON_short sword_female_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 130
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201e6a89f4ab002f0800000000000000
+      internalID: -1008601465504734974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup - WEAPON_short sword_female_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 66
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe1bc065718d2970800000000000000
+      internalID: 8731777593676340976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup - WEAPON_short sword_female_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 66
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d6ffe100be13ec0800000000000000
+      internalID: -3588829042284991142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup - WEAPON_short sword_female_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 66
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b144635ce511f950800000000000000
+      internalID: 6480985443518398900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup - WEAPON_short sword_female_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 66
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d559c2138829ee90800000000000000
+      internalID: -6996016002722343469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup - WEAPON_short sword_female_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 66
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf19f325b6da4e6a0800000000000000
+      internalID: -6420816492270480900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup - WEAPON_short sword_female_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 65
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82aa7f4b3047c77f0800000000000000
+      internalID: -613487889959376344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup - WEAPON_short sword_female_18
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae35c48b7b0f522e0800000000000000
+      internalID: -2151048575137852438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup - WEAPON_short sword_female_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5b15db5c466c370800000000000000
+      internalID: 8342466160198006227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup - WEAPON_short sword_female_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2165779c6b9571ff0800000000000000
+      internalID: -65485027974621678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup - WEAPON_short sword_female_21
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3614bb10e3342e00800000000000000
+      internalID: 1018996453323052603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup - WEAPON_short sword_female_22
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24debf2d64d5ce080800000000000000
+      internalID: -9156841383582241470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup - WEAPON_short sword_female_23
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e3a40c8883a51b0800000000000000
+      internalID: -5667155021099549055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

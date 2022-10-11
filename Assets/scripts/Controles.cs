@@ -10,6 +10,9 @@ public class Controles : MonoBehaviour
     Animator animator;
     AudioSource audioSource;
     float x, y;
+    float attackTime = .25f;
+    float attackCounter = .25f;
+    bool Attacking;
 
     // Start is called before the first frame update
 
@@ -44,10 +47,27 @@ public class Controles : MonoBehaviour
      //   // transform.Translate (direcao* velocidade*Time.deltaTime,0);
      //   Vector2 posicao = (Vector2)transform.position + direcao * velocidade * Time.fixedDeltaTime;
      //   rb.MovePosition(posicao);
+
+        if (Attacking)
+        {
+            rb.velocity = Vector2.zero;
+            attackCounter -= Time.deltaTime;
+            if (attackCounter <= 0)
+            {
+                animator.SetBool("ATTACKING", false);
+                Attacking = false;
+            }
+        }
+
+
         if (controles.Jogo.Ataque.WasPressedThisFrame())
         {
-            Debug.Log("ataque!!!");
+            attackCounter = attackTime;
+            animator.SetBool("ATTACKING",true);
+            Attacking = true;
         }
+
+
     }
     private void FixedUpdate()
     {
